@@ -7,11 +7,7 @@ import { Link } from 'react-router-dom';
 import { NavLink } from "react-router-dom";
 
 
-const navigation = [
-  { name: 'ABOUT', href: 'About', current: false },
-  { name: 'PORTFOLIO', href: 'Portfolio', current: false },
-  { name: 'CONTACT', href: 'Contact', current: false },
-]
+
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
