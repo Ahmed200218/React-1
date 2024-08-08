@@ -1,0 +1,27 @@
+.bg-1A252F {
+    background-color: #1A252F;
+}
+
+.bg-2C3E50 {
+    background-color: #2C3E50;
+}
+
+.footer {
+    padding: 40px;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 10px;
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+

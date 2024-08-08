@@ -1,0 +1,20 @@
+.mt-85{
+    margin-top: 86px;
+}
+.bg-1ABC9C{
+    background-color: #1ABC9C;
+}
+.w-250{
+    width: 250px;
+}
+.white-line{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
+.text-4-5xl{
+    font-size: 2.5rem !important;
+}
+#nav{
+    transition: padding 600ms;
+}

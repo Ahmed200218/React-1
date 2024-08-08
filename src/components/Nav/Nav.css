@@ -1,0 +1,18 @@
+.bg-2C3E50{
+    background-color: #2C3E50 !important; 
+}
+.bg-1ABC9C{
+    background-color: #1ABC9C;
+}
+a:hover {
+    color:white !important;
+}
+Link:hover {
+    color:white !important;
+}
+a{
+    color: white !important;
+}
+.active{
+ @apply  bg-emerald-500
+}

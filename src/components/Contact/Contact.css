@@ -1,0 +1,33 @@
+.border-b-1 {
+    border-bottom: 1px solid #dbdbdb;
+}
+
+input::placeholder {
+    color: #595C5F !important;
+    font-size: 1.1rem;
+}
+
+.bg-1ABC9C {
+    background-color: #1ABC9C;
+}
+
+.outline-nonex {
+    outline: none !important;
+}
+
+.button-sub:hover {
+    border: 1px solid transparent;
+}
+
+.color-1ABC9C {
+    color: #1ABC9C;
+}
+
+.text-lx {
+    font-size: 1.1rem;
+}
+
+.top-hidden {
+    top: 40px;
+    transition: top 600ms;
+}
